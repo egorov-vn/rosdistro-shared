@@ -5,7 +5,7 @@
   <version>0.0.1</version>
   <description>ROS2 Shared</description>
   <maintainer email="egorov.vladimir.n@gmail.com">Vladimir Egorov</maintainer>
-  <license>Apache License 2.0</license>
+  <license>MIT License</license>
   <author>Vladimir Egorov</author>
   <author email="egorov.vladimir.n@gmail.com">Vladimir Egorov</author>
 
